@@ -133,7 +133,7 @@ a:hover{
 }
 div.right{
    float: right;
-   width: 48%;
+   width:48%;
    align-items:center;
    justify-content: space-around;
    height: 400px;
@@ -141,7 +141,7 @@ div.right{
    font-family: old english text;
 }
 div#right{
-   width:38%;
+   width:auto;
    margin-left: 200px;
    padding-top: 50px;
    padding-bottom: 50px;
