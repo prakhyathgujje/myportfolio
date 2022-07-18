@@ -140,13 +140,12 @@ div.right{
    font-size: larger;
    font-family: old english text;
 }
-div#right{
-   width:auto;
-   margin-left: 220px;
-   padding: 50px;
-   
-}
-
+/* div#left{
+   width:50%;
+   margin-left: 350px;
+   padding-top: 50px;
+   padding-bottom: 50px;
+} */
  /* SPAN sectioN */
  span{
    color:darkred;
