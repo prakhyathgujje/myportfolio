@@ -140,12 +140,15 @@ div.right{
    font-size: larger;
    font-family: old english text;
 }
-/* div#right{
-   width:50%;
-   margin-left: 350px;
-   padding-top: 50px;
-   padding-bottom: 20px;
-} */
+div#right{
+   float: right;
+   width:48%;
+   align-items:left;
+   justify-content: space-around;
+   height: 400px;
+   font-size: larger;
+   font-family: old english text;
+}
  /* SPAN sectioN */
  span{
    color:darkred;
