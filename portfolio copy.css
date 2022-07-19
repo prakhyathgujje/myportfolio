@@ -76,8 +76,8 @@ header li{
    display: inline;
    justify-content: space-between;
 }
-body header li  a:hover{
-   color: white;
+body header li :hover{
+   color: cyan;
 }
  
 /* article section start here */
@@ -182,7 +182,7 @@ footer h1:hover{
    color: darkred;
 }
 h1:hover{
-   color: blue;
+   color: darkblue;
 }
 
 /* Secondary reference */
