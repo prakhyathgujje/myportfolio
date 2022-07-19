@@ -124,24 +124,8 @@ a:hover{
    font-family:old english text;
    justify-content: space-around;
 }
-div.right{
-   float: right;
-   width:48%;
-   align-items:center;
-   justify-content: space-around;
-   height: 400px;
-   font-size: larger;
-   font-family: old english text;
-}
-div#right{
-   float: right;
-   width:48%;
-   align-items:left;
-   justify-content: space-around;
-   height: 400px;
-   font-size: larger;
-   font-family: old english text;
-}
+
+
  /* SPAN sectioN */
  span{
    color:darkred;
@@ -175,11 +159,10 @@ div#right{
 
 /* 
 
-
-  .cta {
+.cta {
 	display: inline-block;
 	padding: 10px 30px;
-   text-decoration: none;
+   	text-decoration: none;
 	color:black;
 	background-color: transparent;
 	border: 2px solid darkred;
@@ -227,7 +210,7 @@ h1:hover{
    justify-content: space-between;
    font-size: xx-large;
  }
-div#right{
+div.right{
    float: right;
    width: 48%;
    align-items:center;
@@ -236,12 +219,3 @@ div#right{
    font-size: larger;
    font-family: old english text;
 }
-/*  .absolute-container{
-      position: absolute;
-      border: 2px hidden green;
-      top:50px;
-      text-align: left;
-      justify-content: space-between;
-      width: auto;
-      height: 100px;
-  } */
